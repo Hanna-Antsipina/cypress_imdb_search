@@ -1,0 +1,11 @@
+{
+  "name": "cypress_imdb_search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Hanna Antsipina",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^11.2.0"
+  }
+}
